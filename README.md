@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gptspaghetti
-- 👀 I’m the COO of Prose.
+- 👀 I’m the CEO of Prose.
 - 🌱 I’m currently working on Prose.
 - 💞️ I’m looking to collaborate with great talent. 
 - 📫 How to reach me amy@theprose.com
