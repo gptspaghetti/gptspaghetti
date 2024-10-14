@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @gptspaghetti
-- 👀 I’m the CEO of Prose.
-- 🌱 I’m currently working on Prose.
+- 👀 I’m the President of SPI.
+- 🌱 I’m currently working on SPI.
 - 💞️ I’m looking to collaborate with great talent. 
-- 📫 How to reach me amy@theprose.com
+- 📫 How to reach me amy@spiritphoneinnovations.com
 
 <!---
 gptspaghetti/gptspaghetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
